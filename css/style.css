@@ -22,7 +22,7 @@ body{
     font-family: 'Arial','Verdana';
     background-color: #000000;
     color: #FFFFFF;
-    margin: 20px, 20px, 0px, 20px;
+    margin: 20px 20px 0px 20px;
 }
 
 h1{
@@ -47,14 +47,14 @@ h2{
     background-color: #FF0000;
     text-align: right;
     margin: 0px 0px 0px 50px;
-    border: 0px 0px 2px 5px;
+    border-width: 0px 0px 2px 5px;
 }
 
 .blue{
     background-color: #0000FF;
     text-align: left;
     margin: 0px 50px 0px 0px;
-    border: 2px 5px 0px 0px;
+    border-width: 2px 5px 0px 0px;
     color: #C4C4C4;
 }
 
@@ -66,7 +66,7 @@ h2{
     background-color: #FFFF00;
     text-align: right;
     margin: 0px 0px 0px 50px;
-    border: 0px 0px 2px 5px;
+    border-width: 0px 0px 2px 5px;
     color: #707070;
 }
 
@@ -74,7 +74,7 @@ h2{
     background-color: #008500;
     text-align: left;
     margin: 0px 50px 0px 0px;
-    border: 2px 5px 0px 0px;
+    border-width: 2px 5px 0px 0px;
     color: #C4C4C4;
 }
 
@@ -88,4 +88,3 @@ footer p{
     font-size: 20px;
     padding: 15px 15px 15px 0px;
 }
-  
